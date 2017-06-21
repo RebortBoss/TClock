@@ -29,5 +29,5 @@
     
 ###   具体细节用法,下载查看Demo</br>
 ###   模板依赖:&nbsp;&nbsp;项目里面的TClcok模板(可更加灵活扩展)</br>
-###   gradle依赖:&nbsp;&nbsp;&nbsp;compile&nbsp;'com.jkt:tclock:1.0.0'</br>
+###   gradle依赖:&nbsp;&nbsp;&nbsp;compile&nbsp;'com.jkt:tclock:1.0.1'</br>
 
