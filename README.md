@@ -7,14 +7,37 @@
   <img width="350"  src="https://github.com/HoldMyOwn/TClock/blob/master/preview/3986947346.gif"/><br>
   大概演示,详见各个Activity</br>
   
-###  样式
  
- <div>
- <img width="500"  src="https://github.com/HoldMyOwn/TClock/blob/master/preview/a.png"/>
-  <img width="500"  src="https://github.com/HoldMyOwn/TClock/blob/master/preview/b.png"/>
- </div>
- 包括大圆、小圆、圆弧、时钟点、时钟数字、中心Msg的显示与否、颜色、字体大小、半径、厚度、选中时候样式都可以设定.</br>
- 详见项目attrs文件</br>
+ ## Attributes属性（xml中指定）
+ |属性|格式|描述
+ |---|---|---|
+ |big_circle_color|color|大圆颜色
+ |big_circle_width|integer|大圆厚度
+ |big_circle_shader2|color|大院渲染色一(可以不设置)
+ |big_circle_shader_show|color|大圆渲染色二(可以不设置)
+ |small_circle_color|color|小圆颜色
+ |small_circle_radius|dimension|小圆半径
+ |small_circle_show|boolean|小圆是否显示
+ |point_radius|dimension|时钟点半径
+ |point_color|color|时钟点颜色
+ |point_radius_choose|dimension|时钟点选中时候半径
+ |point_color_choose|color|时钟点选中时候颜色
+ |point_radius_ratio|float|时钟点到圆心的距离(按半径百分比)
+ |arc_width|dimension|圆弧宽度
+ |arc_color|color|圆弧颜色
+ |arc_show|boolean|圆弧是否显示
+ |center_msg_Size|dimension|中间字体大小
+ |center_msg_Color|color|中间字体颜色
+ |center_msg_show|boolean|中间字体是否显示
+ |num_radius|dimension|时钟数字大小
+ |num_color|color|时钟数字颜色
+ |num_radius_choose|dimension|时钟数字选中时候大小
+ |num_color_choose|color|时钟数字选中时候颜色
+ |num_radius_ratio|float|时钟数字到圆心的距离(按半径百分比)
+ |num_show|boolean|数字是否显示
+ 
+ 
+ 
  
 ###  事件监听
    
