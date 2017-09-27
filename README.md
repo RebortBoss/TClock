@@ -4,7 +4,7 @@
   根据区间显示选中时间以及产生包含对应参数的回调事件.支持开发者的自定义需求.<br>
   另外该控件支持多达25+种属性的设置,你可以设置项目需要的样式.</br>
 ###  预览图
-  <img width="350"  src="https://github.com/HoldMyOwn/TClock/blob/master/preview/3986947346.gif"/><br>
+  <img width="350"  src="https://github.com/HoldMyOwn/TClock/blob/master/preview/clock-6.gif"/><br>
   大概演示,详见各个Activity</br>
   
  
